@@ -1,0 +1,5 @@
+bucket_name: ancient-script-ai-datasets
+datasets:
+  hindi_en: corpus/hindi_en/
+  sanskrit_en_itihasa: corpus/sanskrit_en_itihasa/
+  tamil_en: corpus/tamil_en/
